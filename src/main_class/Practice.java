@@ -1,4 +1,4 @@
-package session2;
+package main_class;
 
 import java.util.Scanner;
 
