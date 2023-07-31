@@ -11,6 +11,6 @@ public class Practice {
 
         System.out.println("Hello, " + myName + "," + "\nWelcome to arithmetic class.");
 
-        // You can add more code for arithmetic operations here if needed.
+        // Collaboration
     }
 }
